@@ -5,44 +5,56 @@ body {
   text-align: center;
 }
 
+.Section1 {
+    background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+
 .Headline1 {
-  font-family: Verdana;
-  font-size: 50px;
-  font-weight: normal;
-  color: white;
-  text-align: center;
-
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
 }
 
-.p1 {
-  color: aquamarine;
-  font-size: 16px;
+.specialline {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: White;
 }
-
 
 .Headline2 {
-  font-family: Verdana;
-  font-size: 42px;
-  font-weight: 300;
-  color: white;
-}
-
-.text1 {
-  font-family: Verdana;
-  font-size: 21px;
-  color: grey;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 .Headline3 {
-  font-family: Verdana;
-  font-size: 42px;
-  font-weight: 300;
-  color: white;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
 
+.line {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.Section2 {
+    background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+
+.Headline4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
 
 .footnote {
-  text-align: right;
-  color: grey;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: White;
+  background-color: Dimgrey;
+  text-align: left;
 
 }
